@@ -1,1 +1,2 @@
 # stringlar
+# strings
